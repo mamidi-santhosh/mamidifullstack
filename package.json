@@ -4,7 +4,7 @@
   "description": "node js server",
   "main": "server.js",
   "scripts": {
-    "start": "node server start",
+    "start": "node server",
     "server": "nodemon server"
   },
   "author": "mamidi santhosh",
